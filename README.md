@@ -9,4 +9,5 @@ My name is Alisa Vynohradova and I am a software developer. I live and work in C
 🖥️ I really like working on the front-end, but I have an extensive experience with the back-end <br>
 
 # GitHub Stats:
-[![Alisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisondraV&count_private=true&show_icons=true&theme=solarized-light&bg_color=FFF0E2&text_color=1C3A53&title_color=1C3A53&icon_color=3C9099)](https://github.com/anuraghazra/github-readme-stats)
+[![Alisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisondraV&count_private=true&show_icons=true&theme=solarized-light&bg_color=FFF0E2&text_color=1C3A53&title_color=1C3A53&icon_color=3C9099)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alisondraV&theme=solarized-light&hide_border=true)
